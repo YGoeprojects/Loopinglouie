@@ -24,7 +24,7 @@ Parts list:
   - Looping Louie game 
 
 Wiring diagram:  
-<img src=“https://github.com/YGoeprojects/Loopinglouie/blob/main/Looping_Louie_Wiring_Steckplatine.png”>
+![alt text](https://github.com/YGoeprojects/Loopinglouie/blob/main/Looping_Louie_Wiring_Steckplatine.png)
 
 Note: The motor icon here is a stand in icon for the battery pack of the game. 
 The IR-Sensor and IR phototransistor are located on each side of the slide and a small hole was drilled to create an opening. 
